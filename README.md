@@ -20,7 +20,8 @@ The objective of this project is to assemble a basic speech recognition system f
 
 ### System Design
 
-<img width="910" height="537" alt="image" src="https://github.com/user-attachments/assets/078fe84e-4a45-423b-9faf-96531a7b5e3d" />
+<img width="1405" height="753" alt="image" src="https://github.com/user-attachments/assets/766fe822-5e9d-4240-9354-cc672e1e7c8b" />
+
 
 To view the project, please click the below link
-https://wokwi.com/projects/436384616049360897
+https://www.tinkercad.com/things/6DUsRWfwjmV-speech-recognition-system
