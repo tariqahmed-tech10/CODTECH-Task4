@@ -27,5 +27,6 @@ To view the project, please click the below link
 https://www.tinkercad.com/things/6DUsRWfwjmV-speech-recognition-system
 
 ### Output Demonstration
-When we give the commands, "lights_on" and "fan_on" respectively, the lights will switch on.
-When we give the commands, "lights_off" and "fan_off" espectively, the lights will switch off.
+- When we give the commands, "lights_on" and "fan_on" respectively, the lights will switch on.
+
+- When we give the commands, "lights_off" and "fan_off" espectively, the lights will switch off.
