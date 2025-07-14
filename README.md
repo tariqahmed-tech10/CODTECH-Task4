@@ -22,3 +22,5 @@ The objective of this project is to assemble a basic speech recognition system f
 
 <img width="910" height="537" alt="image" src="https://github.com/user-attachments/assets/078fe84e-4a45-423b-9faf-96531a7b5e3d" />
 
+To view the project, please click the below link
+https://wokwi.com/projects/436384616049360897
